@@ -183,7 +183,7 @@ Test results are saved in the `test-results/` directory:
 
 ## License
 
-This project is for educational purposes as part of IT3040 - ITPM assignment.
+This project is for educational purposes as part of ITPM assignment.
 
 ## Author
 
