@@ -181,10 +181,6 @@ Test results are saved in the `test-results/` directory:
 - Screenshots and videos are captured only on failure
 - All tests use the same base URL configured in `playwright.config.js`
 
-## License
-
-This project is for educational purposes as part of ITPM assignment.
-
 ## Author
 
 BSc (Hons) in Information Technology - Year 3 Student
